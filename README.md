@@ -24,3 +24,5 @@ Python, requests, pandas, Plotly, Streamlit
 - `fetch.py`: NASA API calls
 - `process.py`: JSON to DataFrame
 - `app.py`: Streamlit dashboard
+
+🔗 Live demo: https://asteroid-tracker-zzyxssrmpb7bdcwczpbxdq.streamlit.app/
