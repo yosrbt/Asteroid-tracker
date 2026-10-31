@@ -25,4 +25,8 @@ Python, requests, pandas, Plotly, Streamlit
 - `process.py`: JSON to DataFrame
 - `app.py`: Streamlit dashboard
 
+## Screenshots
+![Dashboard overview](images/dashboard1.png)
+![Dashboard overview](images/dashboard2.png)
+
 🔗 Live demo: https://asteroid-tracker-zzyxssrmpb7bdcwczpbxdq.streamlit.app/
