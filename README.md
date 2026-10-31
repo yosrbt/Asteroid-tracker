@@ -26,7 +26,7 @@ Python, requests, pandas, Plotly, Streamlit
 - `app.py`: Streamlit dashboard
 
 ## Screenshots
-![Dashboard overview](images/dashboard1.png)
-![Dashboard overview](images/dashboard2.png)
+![Dashboard overview](images/Dashboard1.png)
+![Dashboard overview](images/Dashboard2.png)
 
 🔗 Live demo: https://asteroid-tracker-zzyxssrmpb7bdcwczpbxdq.streamlit.app/
